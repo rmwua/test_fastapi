@@ -3,7 +3,7 @@
 ToDo list API, built with FastAPI
 DataBase: PosgreSQL
 
-###Endpoints:
+### Endpoints:
 | **Method** | **URL** | **DESCRIPTION**     | 
 |------------|---------|---------------------|
 | POST       | /auth/  | register new user   |

@@ -1,6 +1,6 @@
 # ToDo list API
 
-ToDo list API, built with FastAPI
+ToDo list API with authentication, built with FastAPI
 DataBase: PosgreSQL
 
 ### Endpoints:
